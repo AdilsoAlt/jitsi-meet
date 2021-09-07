@@ -228,8 +228,8 @@ body.welcome-page {
 
     &.without-content {
         .welcome-card {
-            min-width: 500px;
-            max-width: 580px;
+            min-width: 900px;
+            max-width: 1000px;
         }
     }
 
@@ -262,7 +262,7 @@ body.welcome-page {
         }
 
         &--blue {
-            background: #D5E5FF;
+            background: #272e3d;
         }
 
         &--grey {
@@ -275,7 +275,7 @@ body.welcome-page {
     }
 
     .welcome-footer {
-        background: #131519;
+        background: #272e3d;
         color: #fff;
         margin-top: 40px;
         position: relative;
